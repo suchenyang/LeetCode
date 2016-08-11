@@ -1,3 +1,4 @@
+//add this line to test whether git stores my github credential 
 import java.lang.Math;
 
 public class Q342PowerofFour {
