@@ -1,3 +1,4 @@
+// add this line to test whether git push defaults to simple
 public class Q292NimGame {
 	public static void main(String[] args) {
 		int n = 8;
